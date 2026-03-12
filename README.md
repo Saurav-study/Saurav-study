@@ -30,9 +30,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=Saurav-study&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Saurav-study&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Saurav-study&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
 ## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=Saurav-study&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Saurav-study&row=1&column=7&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ### ✍️ Random Dev Quote

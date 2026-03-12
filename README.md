@@ -1,53 +1,54 @@
-💫 Hi 👋, I'm Saurav Choudhary
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=4000&color=00F7FF&center=true&vCenter=true&width=650&lines=Java+Developer;Python+%7C+Django+Backend+Developer;DSA+Enthusiast;Open+Source+Learner;Tech+Enthusiast+from+India+🇮🇳">
+<!-- PROFILE BANNER --><p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Saurav%20Choudhary&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+</p><h1 align="center">Hi 👋, I'm Saurav Choudhary</h1>
+<h3 align="center">Java Developer | Python & Django Backend Developer | DSA Enthusiast</h3><p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Java+Developer;Python+Backend+Developer;Django+Developer;DSA+Enthusiast;Open+Source+Learner;Tech+Enthusiast+from+India🇮🇳">
 </p>---
 
-👨‍💻 About Me
+🚀 About Me
 
-- 🔭 I’m currently working on Projects using Python, Django, and Java
-- 🌱 I’m currently learning Advanced DSA in Java, Backend Development, and Git/GitHub
-- 👯 I’m looking to collaborate on Java, Python, and Django Projects
-- 🤔 I’m looking for help with Backend Development & Problem Solving
-- 💬 Ask me about Java, DSA, Python, Django, and GitHub
-- 📫 Reach me at sauravchoudhary8789@gmail.com
-- ⚡ Fun fact: I enjoy solving DSA problems and building tech projects 🚀
+- 🔭 Currently building Projects using Python, Django and Java
+- 🌱 Learning Advanced DSA in Java & Backend Development
+- 👯 Looking to collaborate on Open Source Projects
+- 💬 Ask me about Java, Python, Django, DSA, Git
+- ⚡ Fun fact: I love solving coding problems
 
 ---
 
 🌐 Connect With Me
 
-<p align="left">
-<a href="https://instagram.com/____brahman____1209">
-<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/>
-</a><a href="https://linkedin.com/in/saurav-choudhary">
-<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/>
+<p align="center"><a href="https://instagram.com/____brahman____1209">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a><a href="https://linkedin.com">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a><a href="mailto:sauravchoudhary8789@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/>
-</a>
-</p>---
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a></p>---
 
 💻 Tech Stack
 
-<p><img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/><img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/><img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/><img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/><img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></p>---
+<p align="center"><img src="https://skillicons.dev/icons?i=java,python,django,html,css,js,git,github,vscode"/></p>---
 
-📊 GitHub Stats
+📊 GitHub Analytics
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Saurav-study&show_icons=true&theme=tokyonight&hide_border=true"/><img src="https://nirzak-streak-stats.vercel.app/?user=Saurav-study&theme=tokyonight&hide_border=true"/></p><p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saurav-study&layout=compact&theme=tokyonight&hide_border=true"/></p>---
+<p align="center"><img height="170em" src="https://github-readme-stats.vercel.app/api?username=Saurav-study&show_icons=true&theme=tokyonight&hide_border=true"/><img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=Saurav-study&theme=tokyonight&hide_border=true"/></p><p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saurav-study&layout=compact&theme=tokyonight&hide_border=true"/></p>---
+
+📈 GitHub Activity Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Saurav-study&theme=tokyo-night&hide_border=true"/>
+</p>---
 
 🏆 GitHub Trophies
 
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=Saurav-study&theme=onedark&no-frame=true&row=1&column=7"/></p>---
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=Saurav-study&theme=algolia&no-frame=true&row=1&column=7"/></p>---
 
 🐍 Contribution Snake
 
-<p align="center"><img src="https://profile-readme-generator.com/assets/snake.svg"/></p>---
+<p align="center"><img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/></p>---
 
 ✍️ Random Dev Quote
 
 <p align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/></p>---
 
-👀 Profile Views
-
-<p align="center"><img src="https://visitcount.itsvg.in/api?id=Saurav-study&icon=0&color=6"/></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/></p>
